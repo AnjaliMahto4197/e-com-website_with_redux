@@ -1,0 +1,41 @@
+
+{
+  "product":[
+    {
+        "id":1,
+        "name":"Zero",
+        "color":"black",
+        "price":50000,
+        "category":"mobile",
+        "brand":"Infinix",
+        "photo":"https://images.unsplash.com/photo-1722710386525-776042ea63d0?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id":2,
+        "name":"Samsung F20",
+        "color":"black",
+        "price":50000,
+        "category":"mobile",
+        "brand":"Samsung",
+        "photo":"https://m.media-amazon.com/images/I/81vDZyJQ-4L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id":3,
+        "name":"i phones",
+        "color":"black",
+        "price":60000,
+        "category":"mobile",
+        "brand":"Apple",
+        "photo":"https://images.unsplash.com/photo-1721864428881-dbabb9ea0017?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id":4,
+        "name":"one plus",
+        "color":"black",
+        "price":30000,
+        "category":"mobile",
+        "brand":"One plus",
+        "photo":"https://m.media-amazon.com/images/I/61muVCIy-uL._AC_UY327_FMwebp_QL65_.jpg"
+    }
+  ]
+}
